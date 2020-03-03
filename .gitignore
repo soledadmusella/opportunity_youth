@@ -3,7 +3,7 @@
 log/*.txt
 
 # Data files
-*.csv
+data/raw/*.csv
 *.db
 *.sqlite
 *.xls

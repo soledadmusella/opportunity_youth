@@ -78,7 +78,7 @@ dependencies:
   - libssh2=1.8.2=hcdc9a53_2
   - libtiff=4.0.10=hd08fb8f_1003
   - libxml2=2.9.10=h53d96d6_0
-  - llvm-openmp=9.0.0=h40edb58_0
+  - llvm-openmp=9.0.0=h40edb58_0 
   - lz4-c=1.8.3=h6de7cb9_1001
   - markupsafe=1.1.1=py37h0b31af3_0
   - matplotlib=3.1.1=py37_1
@@ -150,5 +150,6 @@ dependencies:
   - zipp=0.6.0=py_0
   - zlib=1.2.11=h0b31af3_1006
   - zstd=1.4.0=ha9f0a20_0
+  - lxml
 prefix: /Users/cnuno/anaconda3/envs/oy-env
 

@@ -1,0 +1,17 @@
+
+SELECT * from puma_names_2010
+WHERE puma_name LIKE '%Auburn%'
+OR puma_name LIKE '%Burien%'
+OR puma_name LIKE '%Covington%'
+OR puma_name LIKE '%Des Moines%'
+OR puma_name LIKE '%Enumclaw%'
+OR puma_name LIKE '%Federal Way%'
+OR puma_name LIKE '%Kent%'
+OR puma_name LIKE 'Maple Valley%'
+OR puma_name LIKE '%Normandy Park%'
+OR puma_name LIKE '%Renton%'
+OR puma_name LIKE '%Tukwila%'
+OR puma_name LIKE '%SeaTac%'
+OR puma_name LIKE '%White Center%'
+OR puma_name LIKE '%Boulevard Park%'
+OR puma_name LIKE '%Vashon%'
